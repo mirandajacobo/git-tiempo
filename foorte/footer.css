@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.titulo {
+    color: violet;
+    font-weight: 600;
+    padding: 0.5rem 2rem;
+    border-radius: 3px;
+}
+
